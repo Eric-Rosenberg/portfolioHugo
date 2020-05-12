@@ -1,0 +1,11 @@
+baseURL = "https://ericr.me/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hallo"
+theme = "uilite"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Eric Rosenberg"
+
+[params]
