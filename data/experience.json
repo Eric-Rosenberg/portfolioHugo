@@ -2,15 +2,16 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"website": "https://www.uber.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "Sept 2016 - Apr 2018",
+			"company" : "Stratitia",
+			"website": "https://stratitia.com/",
+			"description" : "Utilized various web technologies such as sharepoint and react to stand up multiple web pages. These pages were used by various military personnel."
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "Apr 2018 - Present",
+			"company" : "2C4Tech",
+			"website": "https://2c4tech.com/",
+			"description" : "Led multiple teams to produce various full-stack applications."
 		}
 	]
 }

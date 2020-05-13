@@ -13,7 +13,6 @@
 *
 */
 
-
 let menuBtn = $("#menuBar");
 
 menuBtn.click(function() {
@@ -49,7 +48,7 @@ function scrollTo(target) {
 $(document).ready(function() {
   var elements = $(".sidebar > .main-info *");
 
-  console.log(elements);
+  // console.log(elements);
 
   for (let i = 0; i < elements.length; i++) {
     setTimeout(function() {
@@ -61,9 +60,9 @@ $(document).ready(function() {
     $(".main-content").addClass("active");
   }, 1900);
 
-  $("#sidebar a.btn[href='#contact']").on("click", function (event) {
-    event.preventDefault();
+  // $("#sidebar a.btn[href='#contact']").on("click", function (event) {
+  //   event.preventDefault();
 
-    scrollTo($.attr(this, "href"));
-  });
+  //   scrollTo($.attr(this, "href"));
+  // });
 });

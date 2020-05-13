@@ -1,15 +1,20 @@
 {
-	"title" : "Services",
+	"title" : "Achievements",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "fas fa-mobile",
+			"title" : "Refactored Mobile Application",
+			"description" : "Rewrote a legacy mobile application from Xamarin.Android into react-native."
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "fab fa-google-play",
+			"title" : "Released Android Application",
+			"description" : "Built and released an android application which had a 4.3 star rating for it's duration on the play store."
+		},
+		{
+			"icon" : "fab fa-internet-explorer",
+			"title" : "Created Salisbury University internship website",
+			"description" : "Created a full stack website for the Salisbury internship program using ruby on rails"
 		}
 	]
 }

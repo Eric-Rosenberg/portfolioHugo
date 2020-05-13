@@ -1,9 +1,11 @@
 {
-	"title" : "Skills",
+	"title" : "Top Skills",
 	"skills" : {
-		"Sketch" : "90",
-		"Adobe XD" : "80",
-		"Illustrator" : "65",
-		"Photoshop" : "97"
+		"C#" : "70",
+		"C++" : "60",
+		"Java" : "60",
+		"JavaScript" : "80",
+		"React / React Native" : "80",
+		"Flutter": "47"
 	}
 }
