@@ -2,7 +2,7 @@ baseURL = "https://ericr.me/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Rosenberg Portfolio"
-theme = "uilite"
+theme = "my-uilite"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
