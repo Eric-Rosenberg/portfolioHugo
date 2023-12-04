@@ -8,10 +8,16 @@
 			"description" : "Utilized various web technologies such as sharepoint and react to stand up multiple web pages. These pages were used by various military personnel."
 		},
 		{
-			"timeperiod" : "Apr 2018 - Present",
+			"timeperiod" : "Apr 2018 - Nov 2020",
 			"company" : "2C4 Technologies",
 			"website": "https://2c4tech.com/",
 			"description" : "Led multiple teams to produce various full-stack applications."
+		},
+		{
+			"timeperiod" : "Nov 2020 - Present",
+			"company" : "AloeDesk",
+			"website": "http://aloedesk.com/",
+			"description" : "Worked on various projects for documenting patient care."
 		}
 	]
 }

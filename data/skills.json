@@ -1,11 +1,13 @@
 {
 	"title" : "Top Skills",
 	"skills" : {
-		"C#" : "70",
-		"C++" : "60",
-		"Java" : "60",
+		"C#" : "90",
+		"C++" : "50",
+		"Java" : "65",
 		"JavaScript" : "80",
+		"TypeScript" : "60",
 		"React / React Native" : "80",
-		"Flutter": "47"
+		"Flutter": "47",
+		"Kotlin": "50"
 	}
 }
